@@ -374,6 +374,14 @@ textarea{
     justify-content: center;
 }
 
-.display-meta{
+/* .display-meta{
+
+} */
+
+
+.upload-submit-btn .input[type='submit'] {
+border:0;
+color:red;
+background-color: #2ecc71;
 
 }
